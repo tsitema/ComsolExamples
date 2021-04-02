@@ -26,3 +26,7 @@ Band structure calculations of a square lattice on Si with perforated holes.
 * **Topological_Maxwell_Waves_Slab_Corner.mph**
 
 A slab waveguide to demonstrate topological surface Maxwell waves. It consists of two adjacent slab waveguides with different permittivity and permeability. Surface waves are excited by a dipole at the interface.
+
+* **LaserAnnealing.mph**
+
+Annealing of a material with a moving Gaussian beam. Annealing increases the material's absorbtion coefficient according to Arrhenius equation.
